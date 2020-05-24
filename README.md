@@ -1,2 +1,2 @@
 # Project
-Project in Readme
+Writing Notebook. Will upload the code and Notebook soon.
